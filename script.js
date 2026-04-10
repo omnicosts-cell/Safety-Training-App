@@ -43,7 +43,7 @@ const HAZARDS = {
     id:         'excavation',
     title:      'Excavation',
     icon:       '⛏️',
-    riskLevel:  'medium',
+    riskLevel:  'High',
     image:      'images/excavation.jpg',
     safeVideo:  'videos/excavation_safe.mp4',
     unsafeVideo:'videos/excavation_unsafe.mp4'
